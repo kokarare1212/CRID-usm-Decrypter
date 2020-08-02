@@ -4,6 +4,6 @@
 CRID-umd-Decrypter.exe -a <A> -b <B> -o <Output> <Source>
 ```
 ### A
-HACキーの下8桁
+HCAキーの下8桁
 ### B
-HACキーの上8桁
+HCAキーの上8桁
