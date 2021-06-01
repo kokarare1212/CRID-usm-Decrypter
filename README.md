@@ -1,4 +1,4 @@
-# CRID-umd-Decrypter
+# CRID-usm-Decrypter
 ## 使い方  
 ```
 CRID-umd-Decrypter.exe -a <A> -b <B> -o <Output> <Source>
